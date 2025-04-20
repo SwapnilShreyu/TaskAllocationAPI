@@ -1,0 +1,6 @@
+@EnhancementAPI_HostAddress = http://localhost:5269
+
+GET {{EnhancementAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
